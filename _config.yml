@@ -2,6 +2,7 @@ baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
 url: "https://mopac-ds.github.io" 
+theme: jekyll-theme-serif
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
