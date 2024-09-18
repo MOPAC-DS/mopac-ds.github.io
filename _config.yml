@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: 'https://mopac-ds.github.io'
 permalink: pretty
 title: 'Jekyll Serif'
 url: "https://mopac-ds.github.io" 
