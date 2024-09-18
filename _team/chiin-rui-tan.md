@@ -9,3 +9,5 @@ weight: 2
 ---
 
 Some text here.
+
+Languages: Python, R, SQL

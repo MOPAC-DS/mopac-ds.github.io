@@ -9,3 +9,5 @@ weight: 1
 ---
 
 Over 20 years of analytical experience across a variety of roles in Banking, Utilities and Logistics. 
+
+Languages: Python, SQL
