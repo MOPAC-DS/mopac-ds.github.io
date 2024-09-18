@@ -1,12 +1,8 @@
 ---
-title: "Bill McDonald"
+title: "Andy Lavender"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
+image: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+jobtitle: "Senior Data Scientist"
 linkedinurl: ""
 weight: 7
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
