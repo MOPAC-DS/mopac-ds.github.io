@@ -1,8 +1,8 @@
 baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
-url: "https://mopac-ds.github.io" 
-remote_theme: zerostaticthemes/jekyll-serif-theme
+#url: "https://mopac-ds.github.io" 
+#remote_theme: zerostaticthemes/jekyll-serif-theme
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
