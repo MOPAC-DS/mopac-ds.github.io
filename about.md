@@ -5,83 +5,32 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## About Us
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+### What is MOPAC?
 
-# Objectives
+MOPAC (Mayor's Office for Policing And Crime) plays a crucial role in overseeing the Metropolitan Police Service in London. Established under the Police Reform and Social Responsibility Act of 2011, MOPAC is responsible for setting the strategic priorities for policing and crime reduction in the city. Our mission is to make London safer for all, ensuring that public concerns around crime and justice are addressed while holding the police accountable to the highest standards of service.
 
-Financial accounting and financial reporting are often used as synonyms.
+### What Does MOPAC Do?
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+MOPAC works to reduce crime, improve public trust in policing, and deliver greater transparency and accountability across London’s criminal justice system. We collaborate closely with the police, community safety organizations, and local government to set objectives, allocate resources, and track progress on the key challenges facing our communities. Our work includes commissioning research, running community programs, and making data-driven decisions to improve public safety and justice outcomes.
 
-## Relevance
+### The Data Science Team at MOPAC
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+The Data Science team is a new and innovative function within MOPAC, aimed at utilizing the power of data to enhance the effectiveness of policing and crime reduction strategies in London. We operate at the intersection of technology, policy, and policing to derive insights from data that drive better decision-making. Our work is underpinned by MOPAC's commitment to making evidence-based decisions that improve the safety of all Londoners.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+### Our Purpose and Objectives
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+The primary objective of the Data Science team is to harness the potential of data to tackle complex problems in policing and crime prevention. We bring together advanced analytics, machine learning, and data visualization techniques to:
 
-## Faithful Representation
+- **Support strategic decision-making**: By analyzing crime patterns, public sentiment, and police performance data, we provide insights that inform MOPAC’s priorities and policies.
+  
+- **Drive innovation in policing**: We work with the Metropolitan Police and other criminal justice partners to explore cutting-edge tools and technologies that enhance crime prevention, response, and investigation capabilities.
+  
+- **Promote transparency and accountability**: Our team is dedicated to making MOPAC's work more transparent by producing open data projects, visualizations, and reports that allow the public and policymakers to understand trends and issues in policing.
+  
+- **Build data literacy**: In addition to our internal work, we’re committed to empowering others with the tools and knowledge to engage with data. We provide learning resources, simplified explanations of data science concepts, and open-source code to help our partners and the public engage with the data that drives decision-making in criminal justice.
+  
+- **Collaborate and share knowledge**: Our work is built on collaboration with other public agencies, academic institutions, and the community. By sharing knowledge and best practices, we aim to help others use data to solve critical public safety challenges.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Through these objectives, the Data Science team contributes to making London a safer and fairer city by ensuring that decisions are informed by robust, data-driven insights.
