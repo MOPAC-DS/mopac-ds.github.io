@@ -1,6 +1,6 @@
 baseurl: 'https://mopac-ds.github.io'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'MOPAC | DS'
 url: "https://mopac-ds.github.io" 
 remote_theme: zerostaticthemes/jekyll-serif-theme
 
