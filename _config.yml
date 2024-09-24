@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: ''
 permalink: pretty
 title: 'MOPAC | DS'
 url: "https://mopac-ds.github.io/" 
