@@ -2,7 +2,7 @@
 title: Our Work
 layout: services
 description: Our Work
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/ai-generated-9008728_1280.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
