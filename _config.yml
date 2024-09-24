@@ -5,10 +5,10 @@ url: "https://mopac-ds.github.io"
 remote_theme: zerostaticthemes/jekyll-serif-theme
 
 logo:
-  mobile: "images/logo/MOPAC-DS.png"
+  mobile: "images/logo/MOPAC-DS.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/MOPAC-DS.png"
+  desktop: "images/logo/MOPAC-DS.svg"
   desktop_height: "32px"
   desktop_width: "120px"
 
