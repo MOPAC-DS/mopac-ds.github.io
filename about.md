@@ -3,6 +3,9 @@ title: About
 layout: page
 description: About
 bodyClass: page-about
+intro_image: "images/Large_Web_Image-Mayor-s-Policing-Board.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
 
