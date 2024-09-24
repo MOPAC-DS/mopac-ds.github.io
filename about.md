@@ -6,6 +6,8 @@ bodyClass: page-about
 ---
 
 
+![London Policing Board](/images/Large_Web_Image-Mayor-s-Policing-Board.jpg)
+
 ## What is MOPAC?
 
 MOPAC (Mayor's Office for Policing And Crime) plays a crucial role in overseeing the Metropolitan Police Service in London. Established under the Police Reform and Social Responsibility Act of 2011, MOPAC is responsible for setting the strategic priorities for policing and crime reduction in the city. Our mission is to make London safer for all, ensuring that public concerns around crime and justice are addressed while holding the police accountable to the highest standards of service.
