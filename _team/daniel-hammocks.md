@@ -8,6 +8,7 @@ promoted: true
 weight: 3
 ---
 
-(Hopefully) about to complete a PhD in Applied Data Science focusing on developing automated methods to identify new emerging methods of perpetration from free-text crime reports.
+
+Completing a PhD in Applied Data Science focusing on identifying new emerging methods of perpetration from unstructured free-text crime reports.
  ​
 Languages: Python, R, Julia, MATLAB, SQL, (JavaScript/PHP)
