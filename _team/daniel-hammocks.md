@@ -9,6 +9,6 @@ weight: 3
 ---
 
 
-Completing a PhD in Applied Data Science; using NLP to identify new emerging methods of perpetration from crime reports.
+Completing a PhD in Applied Data Science on using NLP to identify new emerging methods of criminal perpetration.
 
 Languages: Python, R, Julia, MATLAB, SQL, (JavaScript/PHP)
