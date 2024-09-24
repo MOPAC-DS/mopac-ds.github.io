@@ -3,25 +3,27 @@ layout: default
 bodyClass: "page-basic"
 ---
 
-<div class="intro" style="
-padding-bottom: 10px;
-">
-    <div class="container">
-        <div class="row justify-content-start">
-            {% if page.intro_image %}
-            <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-                <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
-            </div>
-            {% endif %}
-        </div>
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        <h1 id="about-us">About Us</h1>
+        <p>Who are MOPAC? What does MOPAC do? Why does MOPAC have a Data Science Team? This page answers all of these questions and more. As the Mayor's Office for Policing And Crime, MOPAC plays a vital role in shaping the strategy behind policing and crime reduction in London. Our newly established Data Science team uses advanced analytics and innovative technologies to drive informed decision-making, improve public safety, and bring transparency to our work. Explore below to learn how we’re leveraging data to tackle complex challenges in policing and community safety.</p>
+      </div>
+      {% if page.intro_image %}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
+      </div>
+      {% endif %}
     </div>
+  </div>
 </div>
+
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-start">
       <div class="col-12 col-md-8">
           <div class="service service-single">
-              <h1 class="title">{{page.title}}</h1>
               <div class="content">{{content}}</div>
           </div>
       </div>
