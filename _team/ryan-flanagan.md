@@ -10,4 +10,6 @@ weight: 5
 
 MMath + PhD in Mathematics, specialising in Network Science and Complex Systems, and Noisy Time Series.
 
-Experience with a large range of datasets, including brain data, financial data, and almost the entirety of Iceland's legal database (the country, not the supermarket!).
+Experience with a large range of datasets, including brain data, financial data, and almost the entirety of Iceland's legal database (the country, not the supermarket!). Personal interests include making coffee, and then drinking it.
+
+Languages: Python, MATLAB, AWS. 
